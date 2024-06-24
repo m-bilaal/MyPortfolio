@@ -704,7 +704,7 @@ function App() {
               <div className="footerDetails">
                 <p>+92 3185544179</p>
                 <a href="mailto: dev.mbilal@outlook.com">
-                  dev.mbilal@outlook.com
+                  dev.mbilal@gmail.com
                 </a>
               </div>
               <div className="footerLinks">
